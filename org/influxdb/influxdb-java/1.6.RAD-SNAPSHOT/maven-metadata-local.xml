@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.influxdb</groupId>
+  <artifactId>influxdb-java</artifactId>
+  <version>1.6.RAD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20150219121145</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.6.RAD-SNAPSHOT</value>
+        <updated>20150219121145</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.6.RAD-SNAPSHOT</value>
+        <updated>20150219121145</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
